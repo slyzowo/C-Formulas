@@ -5,7 +5,7 @@
 Add into your project in the "libs/" folder and after use `#include "libs/CFormulas.c"`
 
 > [!NOTE]
-> You do not need to add it to a folder called `libs/` it is just more helpful too.
+> You do not need to add it to a folder called `libs/` it is just more helpful.
 
 # Formulas
 Theres a few formulas I have added to this library, and I may add more in the future. Heres just a few I have added so far. Also everything returns as a float.
