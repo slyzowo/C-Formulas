@@ -4,7 +4,7 @@
 
 Add into your project in the "libs/" folder and after use `#include "libs/CFormulas.c"`
 
-[!NOTE]
+> [!NOTE]
 > You do not need to add it to a folder called `libs/` it is just more helpful too.
 
 # Formulas
